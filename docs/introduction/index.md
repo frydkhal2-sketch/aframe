@@ -1,5 +1,5 @@
 ---
-title: Introduction
+title: Introduction 
 section_title: Introduction
 type: introduction
 layout: docs
